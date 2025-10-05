@@ -23,13 +23,21 @@ Implementar un sistema de autenticación en Laravel y documentar el proceso de i
 ## 3. Instalación y configuración
 
 git clone <repo>
+
 cd proyecto
+
 composer install
+
 npm install
+
 cp .env.example .env
+
 php artisan key:generate
+
 php artisan migrate
+
 npm run dev
+
 php artisan serve
 
 ---
@@ -92,6 +100,7 @@ de Laravel pudiera detectar la versión instalada.
 **Instructor:** Ing. Irina Fong  
 
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
