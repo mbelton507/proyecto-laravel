@@ -32,12 +32,16 @@ php artisan migrate
 npm run dev
 php artisan serve
 
+---
+
 ## 4. Estructura MVC en Laravel
 
 Modelos (app/Models): representan las tablas de la base de datos.
 Controladores (app/Http/Controllers): manejan la lógica entre vistas y modelos.
 Vistas (resources/views): muestran la interfaz al usuario.
 Rutas (routes/web.php): definen las URL del sistema y qué controladores las manejan.
+
+---
 
 ## 5. Base de datos
 Configuración del archivo .env:
@@ -60,6 +64,8 @@ Solución: Se verificaron las variables de entorno en el sistema operativo y se
 configuró correctamente la ruta de PHP en el PATH, asegurando que el servidor
 de Laravel pudiera detectar la versión instalada.
 
+---
+
 ## 7.  resultado final 
 [![Captura-de-pantalla-2025-10-05-015117.png](https://i.postimg.cc/6TJf4Xhj/Captura-de-pantalla-2025-10-05-015117.png)](https://postimg.cc/Pvyw009Y)
 
@@ -70,6 +76,7 @@ de Laravel pudiera detectar la versión instalada.
 **Curso:** Ingenieria Web
 **Instructor:** Ing. Irina Fong  
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
