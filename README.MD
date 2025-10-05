@@ -61,3 +61,13 @@ configuró correctamente la ruta de PHP en el PATH, asegurando que el servidor
 de Laravel pudiera detectar la versión instalada.
 
 7.  resultado final 
+[Captura-de-pantalla-2025-10-05-015117.png](https://postimg.cc/Pvyw009Y)
+
+
+**Proyecto:** LoginLaravel  
+**Alumno:** Marcial Belton
+**Correo:** Beltongarrido16@hotmail.com
+**Curso:** Ingenieria Web
+**Instructor:** Ing. Irina Fong  
+**Fecha de ejecución del laboratorio:** 
+
