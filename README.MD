@@ -72,3 +72,4 @@ de Laravel pudiera detectar la versión instalada.
 **Fecha de ejecución del laboratorio:** 
 
 
+
