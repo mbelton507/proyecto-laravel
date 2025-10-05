@@ -44,6 +44,8 @@ Rutas (routes/web.php): definen las URL del sistema y qué controladores las man
 ---
 
 ## 5. Base de datos
+
+
 Configuración del archivo .env:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -52,7 +54,10 @@ DB_DATABASE=
 DB_USERNAME=root
 DB_PASSWORD=
 
+---
+
 ##6.Dificultades y soluciones
+
 Dificultad 1: Problemas con la versión de PHP y la compatibilidad con
 Laravel.
 Solución: Se actualizó la versión de PHP a la recomendada en la documentación
@@ -76,6 +81,7 @@ de Laravel pudiera detectar la versión instalada.
 **Curso:** Ingenieria Web
 **Instructor:** Ing. Irina Fong  
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
