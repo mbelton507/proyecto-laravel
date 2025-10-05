@@ -3,7 +3,7 @@
 Este proyecto implementa un sistema básico de **autenticación (login y registro)** en Laravel, utilizando Laravel Breeze.  
 Incluye configuración de entorno, migraciones, respaldo de base de datos y documentación completa del proceso.
 
----
+
 
 ## 1. Objetivo
 Implementar un sistema de autenticación en Laravel y documentar el proceso de instalación, configuración y funcionamiento del login.
@@ -76,6 +76,7 @@ de Laravel pudiera detectar la versión instalada.
 **Curso:** Ingenieria Web
 **Instructor:** Ing. Irina Fong  
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
