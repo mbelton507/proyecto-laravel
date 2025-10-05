@@ -21,7 +21,7 @@ Implementar un sistema de autenticación en Laravel y documentar el proceso de i
 ---
 
 ## 3. Instalación y configuración
-```bash
+
 git clone <repo>
 cd proyecto
 composer install
@@ -81,6 +81,7 @@ de Laravel pudiera detectar la versión instalada.
 **Curso:** Ingenieria Web
 **Instructor:** Ing. Irina Fong  
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
