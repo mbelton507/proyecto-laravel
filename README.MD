@@ -76,11 +76,17 @@ de Laravel pudiera detectar la versión instalada.
 
 
 **Proyecto:** LoginLaravel  
+
 **Alumno:** Marcial Belton
+
 **Correo:** Beltongarrido16@hotmail.com
+
 **Curso:** Ingenieria Web
+
 **Instructor:** Ing. Irina Fong  
+
 **Fecha de ejecución del laboratorio:** 
+
 
 
 
